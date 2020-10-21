@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\DNP-101\\Assigment_1\\Assigment_1\\Assigment_1.csproj": {}
+  },
+  "projects": {
+    "D:\\DNP-101\\Assigment_1\\Assigment_1\\Assigment_1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DNP-101\\Assigment_1\\Assigment_1\\Assigment_1.csproj",
+        "projectName": "Assigment_1",
+        "projectPath": "D:\\DNP-101\\Assigment_1\\Assigment_1\\Assigment_1.csproj",
+        "packagesPath": "C:\\Users\\mainh\\.nuget\\packages\\",
+        "outputPath": "D:\\DNP-101\\Assigment_1\\Assigment_1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mainh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\mainh\\.dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
